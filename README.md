@@ -32,3 +32,7 @@ If none is found, it checks for environment variables of the type Docker sets wi
 Finally, it generates a string based on defaults that either you supply or it infers.
 
 So assuming no environment variables, the call ```serviceUrlFinder('something-cool', 9999)``` will return ```something-cool://127.0.0.1:9999```.
+
+# License
+
+ISC.
