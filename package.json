@@ -1,0 +1,29 @@
+{
+  "name": "service-url-finder",
+  "version": "1.0.0",
+  "description": "Get the URL for a service from the environment, either through Docker or overrides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casetext/service-url-finder.git"
+  },
+  "keywords": [
+    "service",
+    "url",
+    "finder",
+    "docker"
+  ],
+  "author": "Harry Schmidt <goldibex@casetext.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casetext/service-url-finder/issues"
+  },
+  "homepage": "https://github.com/casetext/service-url-finder",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  }
+}
