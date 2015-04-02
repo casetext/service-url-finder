@@ -1,4 +1,4 @@
-# service-url-finder
+# service-url-finder [![Build Status](https://travis-ci.org/casetext/service-url-finder.svg)](https://travis-ci.org/casetext/service-url-finder)
 Get the URL for a service from the environment, either through Docker or overrides.
 
 # Installation
